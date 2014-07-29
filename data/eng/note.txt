@@ -1,0 +1,42 @@
+Mortality data obtained from ONS
+
+Population data were provided for the standard regions 1974-1980
+
+We were advised to obtain further population data from 
+http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--england-and-wales--scotland-and-northern-ireland/index.html
+
+For some reason the all of the years exist as single .xls files to download except for 2001.
+
+Geographic areas 
+                      Wales
+E12000001    A    North East 
+E12000002    B    North West 	
+E12000003    D    Yorkshire and The Humber 
+E12000004    E    East Midlands 
+E12000005    F    West Midlands 
+E12000006    G    East of England 
+E12000007    H    London 
+E12000008    J     South East 
+E12000009    K    South West 
+
+ICD Codes
+1. Idiopathic Pulmonary Fibrosis
+
+From 1965 to 1978, ICD-8 code 517 (other chronic interstitial pneumonia)
+From 1979 to 1999, ICD-9 codes 516.3 (idiopathic fibrosing alveolitis) and 
+515 (postinflammatory fibrosis)
+From 2000 onwards, ICD-10 code J84.1 (idiopathic pulmonary fibrosis)
+
+
+2. Asbestosis
+
+From 1965 to 1978, ICD-8 code 515.2 
+From 1979 to 1999, ICD-9 code 501
+From 2000 onwards, ICD-10 code J61 
+
+3. Mesothelioma of pleura
+
+From 1965 to 1978, ICD-8 code 163.0
+From 1979 to 1999, ICD-9 code 163 (Malignant neoplasm of pleura )
+From 2000 onwards, ICD-10 code C45.0 
+

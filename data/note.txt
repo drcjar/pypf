@@ -1,0 +1,2 @@
+herein we have mortality data for diseases of interest (numerator)
+and population data (denominator) 
