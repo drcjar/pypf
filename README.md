@@ -10,18 +10,18 @@ pypf
 quick start
 ====
 
- git clone https://github.com/drcjar/pypf.git
- virtualenv pypf-virtualenv
- cd pypf-virtualenv
- source bin/activate
- pip install -r requirements.txt
- cd pypf notebooks
- ipython notebook –pylab=inline
+ 1. git clone https://github.com/drcjar/pypf.git
+ 2. virtualenv pypf-virtualenv
+ 3. cd pypf-virtualenv
+ 4. source bin/activate
+ 5. pip install -r requirements.txt
+ 6. cd pypf notebooks
+ 7. ipython notebook –pylab=inline
 
- pypf prepares death data
- pypop prepares population data
- pypf_prep prepares a standard 2008 ref population
- pypf_analysis makes pictures
- pypf_poisson does a poisson analysis
- pypf_maps makes maps
+ 8. pypf prepares death data
+ 9. pypop prepares population data
+ 10. pypf_prep prepares a standard 2008 ref population
+ 11. pypf_analysis makes pictures
+ 12. pypf_poisson does a poisson analysis
+ 13. pypf_maps makes maps
  
