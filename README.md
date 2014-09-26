@@ -8,7 +8,7 @@ pypf
  http://nbviewer.ipython.org/github/drcjar/pypf/tree/master/notebooks/
 
 quick start reproducible science
-====
+===
 
  1. git clone https://github.com/drcjar/pypf.git
  2. virtualenv pypf-virtualenv
