@@ -24,4 +24,4 @@ quick start reproducible science
  12. pypf_poisson does a poisson analysis
  13. pypf_maps makes maps
  
-n.b if none of the above makes much sense to you then https://dont-be-afraid-to-commit.readthedocs.org/en/latest/ isn't a bad place to start :-)
+n.b if none of the above makes much sense to you then http://learnpythonthehardway.org/book/ and  https://dont-be-afraid-to-commit.readthedocs.org/en/latest/ aren't bad places to start :-)
