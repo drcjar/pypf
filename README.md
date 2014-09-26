@@ -17,7 +17,6 @@ quick start
  5. pip install -r requirements.txt
  6. cd pypf notebooks
  7. ipython notebook –pylab=inline
-
  8. pypf prepares death data
  9. pypop prepares population data
  10. pypf_prep prepares a standard 2008 ref population
