@@ -1,0 +1,58 @@
+"Age-standardised mortality for interstitial lung disease: total (ICD-10 codes D86, J67, J84, M32-36)",,,,,,,,,,
+,,,,,Latest year 2005-10,,,,,
+EU27,country 2,Country,,Label,Sarcoidosis,Extrinsic allergic alveolitis,Idiopathic fibrosing alveolitis and other ILD,Connective tissue disease,,All ILD
+1,AT,Austria,2010,Austria AT 2010,0.17,0.07,0.84,0.37,,1.5
+1,BE,Belgium,2005,Belgium BE 2005,0.07,0.06,1.59,0.56,,2.3
+1,BG,Bulgaria,2008,Bulgaria BG 2008,0.03,0.02,0.12,0.15,,0.3
+1,CY,Cyprus,2009,Cyprus CY 2009,0.00,0.00,2.57,0.31,,2.9
+1,CZ,Czech Republic,2009,Czech Republic CZ 2009,0.05,0.01,1.27,0.13,,1.5
+1,DE,Germany,2010,Germany DE 2010,0.11,0.03,1.63,0.24,,2.0
+1,DK,Denmark,2006,Denmark DK 2006,0.31,0.02,1.49,0.71,,2.5
+1,EE,Estonia,2009,Estonia EE 2009,0.15,0.00,0.95,0.36,,1.5
+1,ES,Spain,2009,Spain ES 2009,0.06,0.01,2.42,0.40,,2.9
+1,FI,Finland,2009,Finland FI 2009,0.18,0.09,2.67,0.39,,3.3
+1,FR,France,2008,France FR 2008,0.08,0.03,1.29,0.38,,1.8
+1,GR,Greece,2009,Greece GR 2009,0.06,0.00,1.27,0.10,,1.4
+1,HR,Croatia,2009,Croatia HR 2009,0.08,0.00,0.33,0.49,,0.9
+1,HU,Hungary,2009,Hungary HU 2009,0.07,0.01,1.12,0.60,,1.8
+1,IE,Ireland,2009,Ireland IE 2009,0.37,0.15,5.49,0.67,,6.7
+1,IT,Italy,2008,Italy IT 2008,0.06,0.01,1.78,0.53,,2.4
+1,LT,Lithuania,2009,Lithuania LT 2009,0.00,0.00,0.28,0.23,,0.5
+1,LU,Luxembourg,2009,Luxembourg LU 2009,0.00,0.00,0.52,0.21,,0.7
+1,LV,Latvia,2009,Latvia LV 2009,0.15,0.00,0.54,0.27,,1.0
+1,MT,Malta,2010,Malta MT 2010,0.00,0.00,5.92,0.51,,6.4
+1,NL,Netherlands,2010,Netherlands NL 2010,0.12,0.03,1.92,0.54,,2.6
+1,PL,Poland,2009,Poland PL 2009,0.04,0.01,0.63,0.36,,1.0
+1,PT,Portugal,2009,Portugal PT 2009,0.07,0.06,1.78,0.46,,2.4
+1,RO,Romania,2010,Romania RO 2010,0.01,0.02,0.93,0.09,,1.0
+1,SE,Sweden,2010,Sweden SE 2010,0.19,0.02,2.27,0.39,,2.9
+1,SI,Slovenia,2009,Slovenia SI 2009,0.19,0.04,1.24,0.62,,2.1
+1,SK,Slovakia,2009,Slovakia SK 2009,0.02,0.00,0.89,0.12,,1.0
+1,UK,United Kingdom,2009,United Kingdom UK 2009,0.19,0.06,4.02,0.43,,4.7
+,,,,,,,,,,
+,,,,EU 28,0.10,0.0,1.7,0.4,,2.2
+,,,,WHO Europe,0.08,0.0,1.4,0.4,,1.9
+,,,,Non-EU28,0.03,0.0,0.7,0.3,,1.1
+,,,,,,,,,,
+0,AL,Albania,2004,Albania AL 2004,0.00,0.10,0.64,0.11,,0.9
+0,AM,Armenia,2009,Armenia AM 2009,,,,,,
+0,AZ,Azerbaijan,2007,Azerbaijan AZ 2007,0.00,0.04,0.32,0.01,,0.4
+0,BA,Bosnia and Herzegovina,,Bosnia and Herzegovina BA     -,,,,,,
+0,BY,Belarus,2009,Belarus BY 2009,,,,,,
+0,CH,Switzerland,2007,Switzerland CH 2007,,,,,,
+0,GE,Georgia,2009,Georgia GE 2009,0.00,0.00,0.00,0.16,,0.2
+0,IL,Israel,2008,Israel IL 2008,0.12,0.00,1.58,0.48,,2.2
+0,IS,Iceland,2009,Iceland IS 2009,0.00,0.21,1.46,0.57,,2.2
+0,KG,Kyrgyzstan,2009,Kyrgyzstan KG 2009,0.00,0.03,0.10,0.33,,0.5
+0,KZ,Kazakhstan,2009,Kazakhstan KZ 2009,,,,,,
+0,MD,Republic of Moldova,2009,Republic of Moldova MD 2009,0.00,0.00,0.15,0.14,,0.3
+0,ME,Montenegro,2009,Montenegro ME 2009,0.00,0.00,0.00,0.00,,0.0
+0,MK,TFYR Macedonia,,TFYR Macedonia MK     -,,,,,,
+0,NO,Norway,2009,Norway NO 2009,0.12,0.00,1.86,0.53,,2.5
+0,RS,Serbia,2009,Serbia RS 2009,0.07,0.02,0.49,0.63,,1.2
+0,RU,Russian Federation,2009,Russian Federation RU 2009,,,,,,
+0,TJ,Tajikistan,2005,Tajikistan TJ 2005,,,,,,
+0,TM,Turkmenistan,,Turkmenistan TM     -,,,,,,
+0,TR,Turkey,2008,Turkey TR 2008,,,,,,
+0,UA,Ukraine,2009,Ukraine UA 2009,,,,,,
+0,UZ,Uzbekistan,2005,Uzbekistan UZ 2005,0.01,0.02,1.30,0.14,,1.5

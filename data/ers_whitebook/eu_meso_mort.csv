@@ -1,0 +1,58 @@
+Age-standardised mortality rates for occupational respiratory diseases (mesothelioma and pneumoconioses),,,,,,
+,,,,,"Age-standardised rate per 100,000",
+EU-28,Country code,Country,Year label,Y-axis label,Mesothelioma,Pneumoconioses (ICD-10 J60-J70)
+1,AT,Austria,2010,Austria AT 2010,0.80,1.11
+1,BE,Belgium,2005,Belgium BE 2005,1.26,5.71
+1,BG,Bulgaria,2008,Bulgaria BG 2008,0.06,0.59
+1,CY,Cyprus,2009,Cyprus CY 2009,0.63,1.12
+1,CZ,Czech Republic,2009,Czech Republic CZ 2009,0.29,0.61
+1,DE,Germany,2010,Germany DE 2010,0.99,2.94
+1,DK,Denmark,2006,Denmark DK 2006,1.18,0.45
+1,EE,Estonia,2009,Estonia EE 2009,0.22,0.00
+1,ES,Spain,2009,Spain ES 2009,0.56,2.33
+1,FI,Finland,2009,Finland FI 2009,0.92,0.86
+1,FR,France,2008,France FR 2008,1.06,2.43
+1,GR,Greece,2009,Greece GR 2009,,3.65
+1,HR,Croatia,2009,Croatia HR 2009,0.96,0.16
+1,HU,Hungary,2009,Hungary HU 2009,0.31,0.33
+1,IE,Ireland,2009,Ireland IE 2009,0.84,3.15
+1,IT,Italy,2008,Italy IT 2008,1.35,1.10
+1,LT,Lithuania,2009,Lithuania LT 2009,0.19,0.07
+1,LU,Luxembourg,2009,Luxembourg LU 2009,1.41,3.97
+1,LV,Latvia,2009,Latvia LV 2009,0.37,0.09
+1,MT,Malta,2010,Malta MT 2010,1.70,6.53
+1,NL,Netherlands,2010,Netherlands NL 2010,2.08,1.39
+1,PL,Poland,2009,Poland PL 2009,0.38,0.67
+1,PT,Portugal,2009,Portugal PT 2009,0.31,2.16
+1,RO,Romania,2010,Romania RO 2010,0.24,0.27
+1,SE,Sweden,2010,Sweden SE 2010,0.90,1.05
+1,SI,Slovenia,2009,Slovenia SI 2009,1.01,1.93
+1,SK,Slovakia,2009,Slovakia SK 2009,0.16,0.41
+1,UK,United Kingdom,2009,United Kingdom UK 2009,2.58,3.11
+,,,,,,
+,,,,EU 28,0.84,1.72
+,,,,WHO Europe,0.69,1.46
+,,,,Non-EU28,0.28,0.79
+,,,,,,
+0,AL,Albania,2004,Albania AL 2004,,0.49
+0,AM,Armenia,2009,Armenia AM 2009,,
+0,AZ,Azerbaijan,2007,Azerbaijan AZ 2007,0.00,0.17
+0,BA,Bosnia and Herzegovina,,Bosnia and Herzegovina BA     -   ,,
+0,BY,Belarus,2009,Belarus BY 2009,,
+0,CH,Switzerland,2007,Switzerland CH 2007,,
+0,GE,Georgia,2009,Georgia GE 2009,0.04,0.00
+0,IL,Israel,2008,Israel IL 2008,0.58,5.78
+0,IS,Iceland,2009,Iceland IS 2009,0.79,1.03
+0,KG,Kyrgyzstan,2009,Kyrgyzstan KG 2009,0.07,0.03
+0,KZ,Kazakhstan,2009,Kazakhstan KZ 2009,,
+0,MD,Republic of Moldova,2009,Republic of Moldova MD 2009,0.08,0.13
+0,ME,Montenegro,2009,Montenegro ME 2009,0.00,0.00
+0,MK,TFYR Macedonia,2003,TFYR Macedonia MK 2003,,
+0,NO,Norway,2009,Norway NO 2009,0.99,0.83
+0,RS,Serbia,2009,Serbia RS 2009,0.22,0.12
+0,RU,Russian Federation,2009,Russian Federation RU 2009,,
+0,TJ,Tajikistan,2005,Tajikistan TJ 2005,,
+0,TM,Turkmenistan,,Turkmenistan TM     -   ,,
+0,TR,Turkey,2008,Turkey TR 2008,,
+0,UA,Ukraine,2009,Ukraine UA 2009,,
+0,UZ,Uzbekistan,2005,Uzbekistan UZ 2005,0.03,0.05
