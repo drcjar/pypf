@@ -15,10 +15,8 @@ quick start reproducible science
  3. cd pypf-virtualenv
  4. source bin/activate
  5. pip install -r requirements.txt
- 6. pip install matplotlib==1.3.1
- 7. pip install statsmodels==0.5.0
  8. cd pypf notebooks
- 9. ipython notebook –pylab=inline
+ 9. jupyter notebook 
  10. pypf prepares death data
  11. pypop prepares population data
  12. pypf_prep prepares a standard 2008 ref population
