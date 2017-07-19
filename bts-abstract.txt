@@ -1,0 +1,14 @@
+
+Abstract
+
+Introduction and objectives The incidence of Idiopathic pulmonary fibrosis (IPF) has been increasing at a rate of 5% per annum since 2000.
+
+By definition, the diagnosis of IPF is not made in the presense of an identifiable cause. However, the distribution of IPF in the population (more common in men, manual workers, and those living in more industrial areas of the country) suggests a causal contribution from an occupational or environmental source. This would be expected to produce a cohort effect.
+
+Our aim was to investigate for IPF mortality data for evidence of a cohort effect. Our objective was to visualise age-standardised mortality trends for IPF by birth cohort for men and women.
+
+Methods Age and sex stratified mortality data for IPF were obtained for England and Wales from the Office of National Statistics for the period 1974–2012. Data were age-standardised and visualised using the Python Pandas data analysis library and matplotlib.
+
+Results There is evidence of a cohort effect with age-specific IPF death rate increasing in sucessive cohorts, most clearly seen from age 60. There were not marked sex differences.
+
+Conclusions The birth cohort effect observed is consistent with a proportion of IPF cases being due to an occupational or environmental exposure with latency and further research is needed.
