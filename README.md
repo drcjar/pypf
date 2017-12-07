@@ -23,5 +23,6 @@ quick start reproducible science
  13. pypf_analysis makes pictures
  14. pypf_poisson does a poisson analysis
  15. pypf_maps makes maps
+ 16. pypf_cohort_analysis is cohort analysis
  
 n.b if none of the above makes much sense to you then http://learnpythonthehardway.org/book/ and  https://dont-be-afraid-to-commit.readthedocs.org/en/latest/ aren't bad places to start :-)
